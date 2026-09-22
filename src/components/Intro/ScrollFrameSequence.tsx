@@ -10,7 +10,7 @@ const INITIAL_BUFFER_FRAMES = 25;
 
 export const getFramePath = (index: number): string => {
   const padded = String(START_FRAME + index).padStart(3, '0');
-  return `/ezgif-845a2d8ad4709186-png-split/ezgif-frame-${padded}.png`;
+  return `/frames/ezgif-frame-${padded}.webp`;
 };
 
 interface ScrollFrameSequenceProps {

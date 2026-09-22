@@ -5,7 +5,7 @@ export const FRAME_COUNT = 240; // Frames 011 to 250 (240 total frames, skipping
 
 export const getFramePath = (index: number): string => {
   const frame = String(START_FRAME + index).padStart(3, '0');
-  return `/ezgif-845a2d8ad4709186-png-split/ezgif-frame-${frame}.png`;
+  return `/frames/ezgif-frame-${frame}.webp`;
 };
 
 interface GlobalFrameSequenceProps {

@@ -30,7 +30,7 @@ export const EDIT_PROJECTS: EditProject[] = [
     description:
       'The definitive brand opener featuring fluid 3D particle physics, metallic shader lighting, custom sound design, and impact velocity cuts.',
     techniques: ['Camera Projection', 'Optical Flow', 'Bass Warp Impact', 'Gold Grading'],
-    thumbnail: '/ezgif-845a2d8ad4709186-png-split/ezgif-frame-200.png',
+    thumbnail: '/frames/ezgif-frame-200.webp',
   },
   {
     id: 'cyber-sync-montage',

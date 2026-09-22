@@ -5,10 +5,10 @@ import { SOCIAL_LINKS } from '../data/socials';
 import { sound } from '../utils/audio';
 
 const MEDIA_KEYFRAMES = [
-  { frame: '034', timecode: '00:00:14', label: 'IGNITION', src: '/ezgif-845a2d8ad4709186-png-split/ezgif-frame-034.png' },
-  { frame: '110', timecode: '00:00:44', label: 'PARTICLE FLOW', src: '/ezgif-845a2d8ad4709186-png-split/ezgif-frame-110.png' },
-  { frame: '175', timecode: '00:01:10', label: 'CREST IMPACT', src: '/ezgif-845a2d8ad4709186-png-split/ezgif-frame-175.png' },
-  { frame: '240', timecode: '00:01:36', label: 'SHIELD REVEAL', src: '/ezgif-845a2d8ad4709186-png-split/ezgif-frame-240.png' },
+  { frame: '034', timecode: '00:00:14', label: 'IGNITION', src: '/frames/ezgif-frame-034.webp' },
+  { frame: '110', timecode: '00:00:44', label: 'PARTICLE FLOW', src: '/frames/ezgif-frame-110.webp' },
+  { frame: '175', timecode: '00:01:10', label: 'CREST IMPACT', src: '/frames/ezgif-frame-175.webp' },
+  { frame: '240', timecode: '00:01:36', label: 'SHIELD REVEAL', src: '/frames/ezgif-frame-240.webp' },
 ];
 
 export const Editing: React.FC = () => {

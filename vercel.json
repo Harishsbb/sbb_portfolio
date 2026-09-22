@@ -8,7 +8,7 @@
   ],
   "headers": [
     {
-      "source": "/ezgif-845a2d8ad4709186-png-split/(.*)",
+      "source": "/frames/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
