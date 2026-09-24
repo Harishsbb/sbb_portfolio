@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SBB GAMING Banner](public/sbb-logo-hd.png)
+![SBB GAMING Banner](public/sbb-gaming-banner.jpg)
 
 ### **Gamer • Developer • Editor • Tech**
 *A personal creative identity built around high-tier gaming, full-stack software engineering, cinematic video editing, and futuristic technology.*
