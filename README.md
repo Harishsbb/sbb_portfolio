@@ -14,7 +14,7 @@
 [![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-[**Live Demo**](https://github.com/Harishsbb/sbb_portfolio) • [**YouTube Channel**](https://www.youtube.com/@sbbgamingff2001) • [**Instagram**](https://www.instagram.com/sbb_gaming007/) • [**1-Click Vercel Deploy**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHarishsbb%2Fsbb_portfolio)
+[**Live Demo**](https://github.com/Harishsbb/sbb_portfolio) • [**YouTube Channel**](https://www.youtube.com/@sbbgamingff2001) • [**Instagram**](https://www.instagram.com/harishk_sbb?stkn=MWJzZ3pkMHd3ZTI4bg==) • [**1-Click Vercel Deploy**](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHarishsbb%2Fsbb_portfolio)
 
 </div>
 
@@ -164,9 +164,9 @@ Deploy immediately using the pre-configured Vercel template:
 ## 🎮 Official Channels & Socials
 
 - 🔴 **YouTube**: [@sbbgamingff2001](https://www.youtube.com/@sbbgamingff2001)
-- 📸 **Instagram**: [@sbb_gaming007](https://www.instagram.com/sbb_gaming007/)
-- 💻 **GitHub**: [Harishsbb](https://github.com/Harishsbb) / [SBB-Gaming](https://github.com/SBB-Gaming)
-- 💼 **LinkedIn**: [sbb-gaming](https://linkedin.com/in/sbb-gaming)
+- 📸 **Instagram**: [@harishk_sbb](https://www.instagram.com/harishk_sbb?stkn=MWJzZ3pkMHd3ZTI4bg==)
+- 💼 **LinkedIn**: [Harish Kumar](https://www.linkedin.com/in/harishk06944/)
+- 💻 **GitHub**: [Harishsbb](https://github.com/Harishsbb)
 
 ---
 

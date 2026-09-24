@@ -19,23 +19,23 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     id: 'instagram',
     name: 'Instagram',
-    url: 'https://www.instagram.com/sbb_gaming007/',
+    url: 'https://www.instagram.com/harishk_sbb?stkn=MWJzZ3pkMHd3ZTI4bg==',
     icon: 'Instagram',
-    badge: '@sbb_gaming007',
+    badge: '@harishk_sbb',
   },
   {
     id: 'github',
     name: 'GitHub',
-    url: 'https://github.com/SBB-Gaming',
+    url: 'https://github.com/Harishsbb',
     icon: 'Github',
-    badge: 'Code & Repos',
+    badge: 'Harishsbb',
   },
   {
     id: 'linkedin',
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/sbb-gaming',
+    url: 'https://www.linkedin.com/in/harishk06944/',
     icon: 'Linkedin',
-    badge: 'Professional',
+    badge: 'Harish Kumar',
   },
 ];
 
